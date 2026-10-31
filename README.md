@@ -170,4 +170,3 @@ Watch the video explanation of this project: [Sports Analysis Video Explanation]
 
 ## Author
 
-[Jayashree Dhanasekar] | [https://www.linkedin.com/in/jayashree-dhanasekar/]
