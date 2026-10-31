@@ -167,4 +167,4 @@ All queries are in `sports_analysis_EDA_answers.sql`.
 
 ## Author
 
-[Your name] | [LinkedIn or email]
+[Jayashree Dhanasekar] | [[LinkedIn or email](https://www.linkedin.com/in/jayashree-dhanasekar/)]
