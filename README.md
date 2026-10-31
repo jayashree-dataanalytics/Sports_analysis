@@ -165,6 +165,9 @@ All queries are in `sports_analysis_EDA_answers.sql`.
 3. **Results:** open `sports_analysis_EDA.xlsx` for the query output and insights.
 4. **Walkthrough:** open `Sports_Analysis_overview.pptx` for the full story.
 
+## Project Walkthrough
+Watch the video explanation of this project: [Sports Analysis Video Explanation](https://drive.google.com/file/d/1EYeASI6ydANY6xpiN8MXW8lg08S6l3tK/view?usp=drive_link)
+
 ## Author
 
-[Your name] | [LinkedIn or email]
+[Jayashree Dhanasekar] | [https://www.linkedin.com/in/jayashree-dhanasekar/]
